@@ -21,6 +21,8 @@ Analytics and security auditing
 
 The platform provides a secure and seamless NFT trading experience on Andromeda, without need for a separate auction contract.
 
+Embeddable Link: https://embeddables.testnet.andromedaprotocol.io/galileo-4/anonim-auction
+
 Vision: 
 
 Our vision for the Andromeda NFT Sales Platform is to create a thriving, decentralized marketplace that empowers creators and collectors on the Andromeda blockchain. 
